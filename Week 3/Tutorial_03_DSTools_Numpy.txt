@@ -1,0 +1,15 @@
+
+------------Tutorial 03-------------------
+
+#Part 1-Google Colab and Python
+1. Create a new notebook and code the following
+
+1. Create a numpy array of size 2 x 2
+2. Create a random numpy array of size 3 x 4
+3. Create a numpy array of ones and a numpy array of zeroes
+4. Create a random numpy array of size 6x3 and transpose it 
+5. Create two random numpy array of size n x p and p x m and then compute the dot product
+
+
+#Part 2-Colab and github
+1. From Google Colab, push the notebook onto your GitHub

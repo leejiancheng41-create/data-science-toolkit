@@ -1,0 +1,23 @@
+
+------------Tutorial 03-------------------
+
+#Tidy Data, Data Characteristics
+
+1. Find some real dataset. Load it on Colab, Kaggle etc. Try to visualize some of it 
+
+2. Evaluate if the data is good or not. Does it have enough samples?
+
+3. How many features does it have? Is it enough?
+
+4. How many samples/observation does it have? Is it enough?
+
+5. What are the datatypes does the dataset consist of?
+
+6. How many columns have null values? If yes, which column, which rows
+
+7. Which column is the feature, which is the target output?
+
+8. Does it have missing values? If yes, which column, which row. 
+
+9. What kind of question can be asked, should we ask. Does the dataset suits the question we are asking?
+
